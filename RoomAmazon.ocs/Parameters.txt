@@ -1,0 +1,11 @@
+[Parameters]
+IsNetworkGame=true
+ControlRate=3
+AutoFrameSkip=true
+
+  [Client]
+  ID=0
+  Activated=true
+  Name="Sven2"
+  Nick="Sven2"
+  Revision="55a81ea76a69"
